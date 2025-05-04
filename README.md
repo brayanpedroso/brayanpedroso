@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">👋 Olá! Eu sou Brayan Pedroso</h1>
 
-<!--
-**brayanpedroso/brayanpedroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Estudante de Informática para Internet | 3º ano - Instituto Federal <br>
+💻 Focado em desenvolvimento web, Python e software livre <br>
+🚀 Em busca de aprender, criar e colaborar com a comunidade tech
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que estou estudando
+- HTML, CSS, JavaScript
+- Python e Django
+- Git e GitHub
+- Banco de Dados (MySQL, PostgreSQL)
+
+---
+
+## 💼 Projetos em destaque
+- 💰 **E-commerce "La Casa de Papel"** (Vue.js + HTML/CSS)
+- 🚗 **Garagem API** (Django REST Framework)
+- 🧩 participaçao no projeto Hackathon-spotngo-2024 
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brayanpedroso&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanpedroso&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 📫 Contato
+- Email: brayanmattos9@gmail.com
