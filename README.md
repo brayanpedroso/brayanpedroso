@@ -19,7 +19,7 @@
 ## 💼 Projetos em destaque
 - 💰 **E-commerce "La Casa de Papel"** (Vue.js + HTML/CSS)
 - 🚗 **Garagem API** (Django REST Framework)
-- 🎬 **Projeto MetFlix 
+- 🎬 Projeto MetFlix 
 - 🧩 participaçao no projeto Hackathon-spotngo-2024 
 
 ---
