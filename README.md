@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou Brayan Pedroso</h1>
 
 <p align="center">
-🎓 Estudante de Informática para Internet | 3º ano - Instituto Federal <br>
+🎓 Ensino médio concluído com Curso técnico integrado em Informática para Internet - Instituto Federal <br>
 💻 Focado em desenvolvimento web, Python e software livre <br>
 🚀 Em busca de aprender, criar e colaborar com a comunidade tech
 </p>
